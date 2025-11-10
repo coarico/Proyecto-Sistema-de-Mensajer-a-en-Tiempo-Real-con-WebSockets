@@ -1,0 +1,4 @@
+server\WebSocketServer.class
+server\ChatEndpoint$LocalDateTimeAdapter.class
+server\ChatEndpoint.class
+server\Message.class
